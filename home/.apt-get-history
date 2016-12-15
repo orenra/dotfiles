@@ -1,0 +1,9 @@
+Commandline: apt-get --force-yes --yes upgrade
+Commandline: apt-get --force-yes --yes dist-upgrade
+Commandline: apt-get --force-yes --yes install ubiquity-slideshow-mint ubiquity-casper libdmraid1.0.0.rc16 ubiquity-frontend-gtk xfsprogs firefox-locale-en language-pack-en dmraid kpartx-boot kpartx language-pack-en-base libnss3-1d jfsutils wamerican grub-gfxpayload-lists gparted
+Commandline: apt-get install emacs25
+Commandline: apt-get install git
+Commandline: apt-get install wget ca-certificates
+Commandline: apt-get install postgresql-9.5 pgadmin3
+Commandline: /usr/bin/apt install htop
+Commandline: apt-get install flashplugin-installer
